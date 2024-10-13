@@ -43,8 +43,8 @@ const Links = ({mobile, style}) => {
         <Typography.Link href="https://t.me/dtontech_bot" style={linkStyle}>
             API Keys
         </Typography.Link>
-        <Typography.Link href="https://dton.io/" style={linkStyle}>
-            Explorer
+        <Typography.Link href="https://blog.dton.io/" style={linkStyle}>
+            Blog
         </Typography.Link>
         <Typography.Link href="https://tech.dton.io/status" style={linkStyle}>
             Status
