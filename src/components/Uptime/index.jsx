@@ -8,7 +8,7 @@ import { useWindowSize } from "../../helpers/useWindowSize";
 
 const resources = {
     'dton.io': 'graphql',
-    '@literserver.bot':'liteserver'
+    '@literserver_bot':'liteserver'
 }
 
 const activeStyle = {
