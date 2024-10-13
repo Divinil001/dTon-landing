@@ -46,7 +46,7 @@ const Links = ({mobile, style}) => {
         <Typography.Link href="https://dton.io/" style={linkStyle}>
             Explorer
         </Typography.Link>
-        <Typography.Link href="https://status.dton.io/" style={linkStyle}>
+        <Typography.Link href="https://tech.dton.io/status" style={linkStyle}>
             Status
         </Typography.Link>
         <Typography.Link href="https://t.me/dtontech" style={linkStyle}>
